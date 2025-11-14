@@ -12,6 +12,6 @@ Sometimes, when I am able to muster words that could potentially be useful or in
 
 I write my code myself. Or, if you want to get hypertechnical about it, my extent of usage of "AI" when programming is using the line autocomplete feature in Rider. (Which gives crummy results like 80% of the time anyway.)
 
-- If you care about using things written by humans, there you go.
+- If you care about using things written by humans, like I do, there you go.
 - If you care about *why* I don't use "AI," I don't want to talk about it. Other people online have given their reasons and I agree with most of them, so take your pick.
 - If you have an "AI"-related offer of employment or product pitch, kindly submit it to `/dev/null`.
