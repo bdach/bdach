@@ -10,7 +10,7 @@ Sometimes, when I am able to muster words that could potentially be useful or in
 
 ## No "AI"
 
-I write my code myself. Or, if you want to get hypertechnical about it, my extent of usage of "AI" when programming is using the line autocomplete feature in Rider. (Which gives crummy results like 80% of the time anyway.)
+I write my code myself. Or, if you want to get hypertechnical about it, my extent of usage of "AI" when programming is plain old, *deterministic*, code completion. (I had Rider's AI-based line auto-completion enabled until I noticed it was making me lose brain cells and reflexively accept unacceptable suggestions.)
 
 - If you care about using things written by humans, like I do, there you go.
 - If you care about *why* I don't use "AI," I don't want to talk about it. Other people online have given their reasons and I agree with most of them, so take your pick.
